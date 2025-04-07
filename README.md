@@ -1,4 +1,4 @@
-# Loan Eligibility Prediction Project
+# Loan Eligibility Prediction
 
 ![screenshot-localhost_8888-2025 04 07-09_19_56](https://github.com/user-attachments/assets/970d27f7-734e-40c9-ad9f-0620758cd41e)
 
